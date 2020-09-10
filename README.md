@@ -5,3 +5,5 @@ Coding various exceries, will update read me with each task by numerical value o
 115: Select all employees whose average salary is higher than $120,000 per annum.
 
 119: Select the employee numbers of all individuals who have signed more than 1 contract after the 1st of January 2000.
+
+121: Select the first 100 rows from the 'dept_emp' table. 
