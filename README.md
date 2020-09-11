@@ -9,3 +9,5 @@ Coding various exceries, will update read me with each task by numerical value o
 121: Select the first 100 rows from the 'dept_emp' table. 
 
 126: Insert the following record into the titles table. Employee 999903, "Senior Engineer", started on Oct 1, 1997. Sort titles tables in descending order to confirm insert was successfull.
+
+127: Insert the following record into the dept_emp table. Department number is 5, started on Oct 1, 1997, and contract is open indefinitely.
