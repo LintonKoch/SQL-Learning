@@ -13,3 +13,5 @@ Coding various exceries, will update read me with each task by numerical value o
 127: Insert the following record into the dept_emp table. Department number is 5, started on Oct 1, 1997, and contract is open indefinitely.
 
 131: Create a new department called Business Analysis. Register under number d010. 
+
+137: Update all records in departments table with deptartment names of Business Analyis to Data Analysis.
