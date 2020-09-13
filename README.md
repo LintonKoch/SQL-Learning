@@ -32,3 +32,4 @@ Coding various exceries, will update read me with each task by numerical value o
 
 154: What is the average annual salary paid ot employees who started after the 1st of Jan 1997?
 
+157: Round the average amount  of money spent on salaries for all contracts that started after the 1st of Jan 1997 to a precision of cents. 
