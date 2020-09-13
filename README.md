@@ -15,3 +15,17 @@ Coding various exceries, will update read me with each task by numerical value o
 131: Create a new department called Business Analysis. Register under number d010. 
 
 137: Update all records in departments table with deptartment names of Business Analyis to Data Analysis.
+
+141: Remove the department number 10 from the departments table.
+
+*DROP loses everything which includes the table sturcture. DROP cannot be brought back by a ROLLBACK.
+*TRUNCATE is DELETE without a WHERE clause. However, the table structure is retained. TRUNCATE is way faster due to not having to go row by row like a DELETE statement.
+*AUTO-INCREMENTATION IS NOT RESET BY A DELETE STATEMENT!!!
+
+145: How many departments are there in the employee database? 
+
+*COUNT can apply to numerical and non-numeric date while SUM, MIN, MAX and AVG only works with numerical data.
+
+147: What is the total amount of money spent on salaries for all contracts starting after the 1st of Jan 1997?
+
+
