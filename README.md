@@ -15,3 +15,5 @@ Coding various exceries, will update read me with each task by numerical value o
 131: Create a new department called Business Analysis. Register under number d010. 
 
 137: Update all records in departments table with deptartment names of Business Analyis to Data Analysis.
+
+141: Remove the department number 10 from the departments table.
