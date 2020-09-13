@@ -24,3 +24,8 @@ Coding various exceries, will update read me with each task by numerical value o
 
 145: How many departments are there in the employee database? 
 
+*COUNT can apply to numerical and non-numeric date while SUM, MIN, MAX and AVG only works with numerical data.
+
+147: What is the total amount of money spent on salaries for all contracts starting after the 1st of Jan 1997?
+
+
