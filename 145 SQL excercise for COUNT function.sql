@@ -1,0 +1,1 @@
+SELECT COUNT(DISTINCT emp_no) FROM dept_emp;
