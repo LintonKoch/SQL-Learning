@@ -22,5 +22,5 @@ Coding various exceries, will update read me with each task by numerical value o
 *TRUNCATE is DELETE without a WHERE clause. However, the table structure is retained. TRUNCATE is way faster due to not having to go row by row like a DELETE statement.
 *AUTO-INCREMENTATION IS NOT RESET BY A DELETE STATEMENT!!!
 
-
+145: How many departments are there in the employee database? 
 
