@@ -26,6 +26,9 @@ Coding various exceries, will update read me with each task by numerical value o
 
 *COUNT can apply to numerical and non-numeric date while SUM, MIN, MAX and AVG only works with numerical data.
 
-147: What is the total amount of money spent on salaries for all contracts starting after the 1st of Jan 1997?
+148: What is the total amount of money spent on salaries for all contracts starting after the 1st of Jan 1997?
 
+151: Which is the lowest employee number in the database, and which is the highest employee number in the database?
+
+154: What is the average annual salary paid ot employees who started after the 1st of Jan 1997?
 
